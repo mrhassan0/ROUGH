@@ -11,6 +11,8 @@
     <?php
         // Example PHP code
         echo "Hello from PHP!";
+        echo "=asjkledfhlsehd";
+        echo ":laksdl;kas;kd;aslk";
     ?>
 </body>
 </html>
